@@ -1,0 +1,325 @@
+    @media (min-width: 414px) {
+        /* Header----------------- */
+        #rps-menu {
+            float: right;
+            margin-top: -67px;
+            margin-right: -160px;
+        }
+        .product-item {
+            margin-bottom: 10px;
+        }
+        .content-about-title-left {
+            margin-bottom: 35px;
+        }
+        /* Slider---------- */
+        #slider img {
+            width: 414px;
+            height: 200px;
+        }
+        /* About-us--------- */
+        #about-us .title-about h2 {
+            font-size: 25px;
+        }
+        #about-us .content-about {
+            margin-top: 10px;
+        }
+        /* Fag_us---------------- */
+        #tag_us .list-share {
+            margin-bottom: 20px;
+        }
+        /* Best-seller--------- */
+        #products-new .title h4 {
+            font-size: 25px;
+        }
+        /* Blog----------------- */
+        #blog {
+            margin-bottom: 20px;
+        }
+        #blog .title-blog h2 {
+            font-size: 25px;
+        }
+        #blog .blog-img {
+            max-width: 100%;
+            margin-left: -36px;
+        }
+        #blog .title-blog .subtitle {
+            font-size: 19px;
+        }
+        #blog .content-blog {
+            position: relative;
+            margin-top: 30px;
+        }
+        #blog .content-blog-title-left {
+            margin-bottom: 20px;
+        }
+        #blog .content-blog-title-right {
+            padding-left: 50px;
+        }
+        #blog .box-blog-left .stackers-video-block-text {
+            position: absolute;
+            font-size: 16px;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 500;
+            letter-spacing: 0px;
+            color: #000;
+            background: #e3cfca;
+            max-width: 270px;
+            min-height: 270px;
+            right: 237px;
+            top: 130px;
+            padding-left: 25px;
+            opacity: 0.9;
+            left: 53px;
+        }
+        #blog .box-blog-left .stackers-video-block-text h2 {
+            font-size: 25px;
+            font-family: 'Montserrat', sans-serif;
+            text-transform: none;
+            font-weight: 800;
+            letter-spacing: 0px;
+            margin: 0 0 22px;
+            color: #000;
+            margin-top: 30px;
+        }
+        #blog .box-blog-right .stackers-video-block-text {
+            position: absolute;
+            font-size: 16px;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 500;
+            letter-spacing: 0px;
+            color: #000;
+            background: #edddda;
+            max-width: 270px;
+            min-height: 270px;
+            right: 170px;
+            top: 130px;
+            padding-left: 25px;
+            opacity: 0.9;
+        }
+        #blog .box-blog-right .stackers-video-block-text h2 {
+            font-size: 25px;
+            font-family: 'Montserrat', sans-serif;
+            text-transform: none;
+            font-weight: 800;
+            letter-spacing: 0px;
+            margin: 0 0 22px;
+            color: #000;
+            margin-top: 14px;
+        }
+        #blog .stackers-video-block_text_content {
+            font-size: 16px;
+            font-family: 'Lato';
+            font-weight: 500;
+            letter-spacing: 0px;
+            color: #000;
+            margin: 0 0 40px;
+        }
+        #blog .stackers-video-block_text_button {
+            max-width: 115px;
+            width: 100%;
+            display: block;
+            font-size: 16px;
+            font-weight: 400;
+            font-family: 'Lato';
+            line-height: 1;
+            border-radius: 30px;
+            padding: 17px 0;
+            color: #000;
+            text-align: center;
+            background-color: #fff;
+            margin-top: -28px;
+        }
+        #blog .stackers-video-block_text_button:hover {
+            background: #3bd4ae;
+        }
+        /* tag_us--------------- */
+        #tag_us .box-head h4 {
+            font-size: 25px;
+        }
+        /* Footer------------- */
+        #footer .wp_about_us_f {
+            margin-bottom: 40px;
+        }
+        #footer .wp_information_f {
+            margin-bottom: 40px;
+        }
+        #footer .wp_support_f {
+            margin-bottom: 40px;
+        }
+        /* PRODUCT-DETAIL------------------- */
+        /* Product-Img-Slider---------------- */
+        #product-detail .product-img-item img {
+            width: 414px;
+            height: 555px;
+        }
+        .owl-dots {
+            display: none;
+        }
+        #product-detail .product-img-slider {
+            margin-bottom: 574px;
+            margin-right: -20px;
+        }
+        #product-detail .product-img-thumnail {
+            display: none;
+        }
+        /* Product-Related---------------- */
+        #products-new .title {
+            margin-bottom: 20px;
+            margin-left: 2px;
+        }
+        #product-related #products-new .body .product-item a img {
+            transition: none;
+        }
+        #products-new .body .product-item a img:hover {
+            transform: none;
+        }
+    }
+    
+    @media (min-width: 576px) {}
+    
+    @media (min-width: 768px) {}
+    
+    @media (min-width: 992px) {}
+    
+    @media (min-width: 1200px) {
+        .container {
+            max-width: 1170px;
+        }
+        /* Slider---------------- */
+        #slider img {
+            width: 1903px;
+            height: 614px;
+        }
+        /* About-us---------------- */
+        #about-us .title-about h2 {
+            font-size: 2rem;
+        }
+        #about-us .content-about {
+            margin-top: 50px;
+        }
+        /* Best-seller----------- */
+        #products-new .title h4 {
+            font-size: 32px;
+        }
+        /* Blog------------------ */
+        #blog {
+            margin-bottom: 20px;
+        }
+        #blog .title-blog h2 {
+            font-size: 2rem;
+        }
+        #blog .title-blog .subtitle {
+            font-size: 19px;
+        }
+        #blog .content-blog {
+            margin-top: 30px;
+        }
+        #blog .content-blog-title-right {
+            padding-left: 50px;
+        }
+        #blog .content-blog {
+            position: relative;
+        }
+        #blog .box-blog-left .stackers-video-block-text {
+            position: absolute;
+            font-size: 16px;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 500;
+            letter-spacing: 0px;
+            color: #000;
+            background: #e3cfca;
+            max-width: 346px;
+            min-height: 346px;
+            right: 237px;
+            top: 130px;
+            padding-left: 25px;
+            opacity: 0.9;
+            left: -50px;
+        }
+        #blog .box-blog-left .stackers-video-block-text h2 {
+            font-size: 26px;
+            font-family: 'Montserrat', sans-serif;
+            text-transform: none;
+            font-weight: 800;
+            letter-spacing: 0px;
+            margin: 0 0 22px;
+            color: #000;
+            margin-top: 73px;
+        }
+        #blog .box-blog-right .stackers-video-block-text {
+            position: absolute;
+            font-size: 16px;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 500;
+            letter-spacing: 0px;
+            color: #000;
+            background: #edddda;
+            max-width: 346px;
+            min-height: 346px;
+            right: 252px;
+            top: 130px;
+            padding-left: 25px;
+            opacity: 0.9;
+        }
+        #blog .box-blog-right .stackers-video-block-text h2 {
+            font-size: 26px;
+            font-family: 'Montserrat', sans-serif;
+            text-transform: none;
+            font-weight: 800;
+            letter-spacing: 0px;
+            margin: 0 0 22px;
+            color: #000;
+            margin-top: 73px;
+        }
+        #blog .stackers-video-block_text_content {
+            font-size: 16px;
+            font-family: 'Lato';
+            font-weight: 500;
+            letter-spacing: 0px;
+            color: #000;
+            margin: 0 0 40px;
+        }
+        #blog .stackers-video-block_text_button {
+            max-width: 115px;
+            width: 100%;
+            display: block;
+            font-size: 16px;
+            font-weight: 400;
+            font-family: 'Lato';
+            line-height: 1;
+            border-radius: 30px;
+            padding: 17px 0;
+            color: #000;
+            text-align: center;
+            background-color: #fff;
+            margin-top: -12px;
+        }
+        /* tag_us--------------- */
+        #tag_us .box-head h4 {
+            font-size: 25px;
+        }
+        /* PRODUCT-DETAIL----------------------- */
+        /* Product-Img-Slider---------------- */
+        #product-detail .product-img-item img {
+            width: 458px;
+            height: 555px;
+        }
+        .owl-dots {
+            display: block;
+        }
+        #product-detail .product-img-thumnail {
+            position: absolute;
+            top: 0px;
+            display: block;
+        }
+        #products-new .title {
+            margin-bottom: 20px;
+        }
+        /* PRODUCT-RELATED--------------- */
+        #product-related #products-new .body .product-item a img {
+            transition: all 0.9s;
+        }
+        #products-new .body .product-item a img:hover {
+            transform: scale(1.05);
+        }
+    }
